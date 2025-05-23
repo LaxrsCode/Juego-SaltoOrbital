@@ -121,22 +121,5 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 **LaxrsCode**
 - GitHub: [@LaxrsCode](https://github.com/LaxrsCode)
-- [Agregar otros enlaces de contacto si deseas]
-
-## 🙏 Agradecimientos
-
-- A todos los que han contribuido al proyecto
-- Inspiración de juegos clásicos de arcade
-- [Agregar otros agradecimientos específicos]
-
-## 📸 Screenshots
-
-[Agregar capturas de pantalla del juego aquí]
-
-## 🎥 Demo
-
-[Agregar enlace a demo en vivo si está disponible]
-
----
 
 ⭐ ¡No olvides darle una estrella al repositorio si te gustó el juego! ⭐
