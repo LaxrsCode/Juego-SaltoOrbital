@@ -51,28 +51,20 @@ Juego-SaltoOrbital/
 └── README.md
 ```
 
-## 🚀 Instalación y Ejecución
+## 🛠️ Requisitos
 
-1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/LaxrsCode/Juego-SaltoOrbital.git
-   ```
+- Python 3.8 o superior
+- Pygame 2.0 o superior
 
-2. **Navega al directorio del proyecto:**
-   ```bash
-   cd Juego-SaltoOrbital
-   ```
+Instala las dependencias necesarias ejecutando:
 
-3. **Abre el archivo `index.html` en tu navegador web favorito**
+```bash
+pip install -r requirements.txt
 
-   O alternativamente, si tienes un servidor local:
-   ```bash
-   # Con Python 3
-   python -m http.server 8000
-   
-   # Con Node.js (http-server)
-   npx http-server
-   ```
+Ejecucion del juego: 
+
+```bash
+pip install -r requirements.txt
 
 4. **¡Disfruta del juego!** 🎮
 
