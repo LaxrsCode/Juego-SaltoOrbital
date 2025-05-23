@@ -82,7 +82,10 @@ Para ejecutar el juego, sigue estos pasos:
     pip install -r requirements.txt
     ```
 
-4. **¡Disfruta del juego!** 🎮
+4. **Ejecucion del juego** 🎮
+   ```bash
+    python main.py
+    ```
 
 ## 🎮 Cómo Jugar
 
