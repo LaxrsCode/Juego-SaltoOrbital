@@ -1,10 +1,11 @@
+
 # 🚀 Juego Salto Orbital
 
 Un emocionante juego de saltos espaciales donde debes navegar a través del espacio saltando de órbita en órbita.
 
 ## 📋 Descripción
 
-Juego Salto Orbital es un juego de habilidad y precisión donde el jugador controla una nave espacial que debe saltar entre diferentes órbitas planetarias para alcanzar su destino. Con cada salto, la dificultad aumenta y los desafíos se vuelven más complejos.
+**Juego Salto Orbital** es un juego de habilidad y precisión donde el jugador controla una nave espacial que debe saltar entre diferentes órbitas planetarias para alcanzar su destino. Con cada salto, la dificultad aumenta y los desafíos se vuelven más complejos.
 
 ## ✨ Características
 
@@ -60,11 +61,26 @@ Instala las dependencias necesarias ejecutando:
 
 ```bash
 pip install -r requirements.txt
+```
 
-Ejecucion del juego: 
+## 🚀 Ejecución del Juego
 
-```bash
-pip install -r requirements.txt
+Para ejecutar el juego, sigue estos pasos:
+
+1. Clona este repositorio:
+    ```bash
+    git clone https://github.com/LaxrsCode/Juego-SaltoOrbital.git
+    ```
+
+2. Navega al directorio del proyecto:
+    ```bash
+    cd Juego-SaltoOrbital
+    ```
+
+3. Instala las dependencias necesarias:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 4. **¡Disfruta del juego!** 🎮
 
@@ -86,10 +102,12 @@ pip install -r requirements.txt
 ## 🔧 Desarrollo
 
 ### Requisitos
+
 - Navegador web moderno con soporte para HTML5 Canvas
 - Editor de texto/código (recomendado: VS Code)
 
 ### Contribuir
+
 1. Fork el proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
@@ -111,7 +129,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 ## 👨‍💻 Autor
 
-**LaxrsCode**
+**LaxrsCode**  
 - GitHub: [@LaxrsCode](https://github.com/LaxrsCode)
 
 ⭐ ¡No olvides darle una estrella al repositorio si te gustó el juego! ⭐
