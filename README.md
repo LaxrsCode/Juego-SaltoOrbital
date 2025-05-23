@@ -5,7 +5,7 @@ Un emocionante juego de saltos espaciales donde debes navegar a través del espa
 
 ## 📋 Descripción
 
-**Juego Salto Orbital** es un juego de habilidad y precisión donde el jugador controla una nave espacial que debe saltar entre diferentes órbitas planetarias para alcanzar su destino. Con cada salto, la dificultad aumenta y los desafíos se vuelven más complejos.
+**Juego Salto Orbital** es un juego de habilidad y precisión desarrollado en Python con Pygame. El jugador controla una nave espacial que debe saltar entre diferentes órbitas planetarias para alcanzar su destino. Con cada salto, la dificultad aumenta y los desafíos se vuelven más complejos.
 
 ## ✨ Características
 
@@ -30,26 +30,23 @@ El objetivo es saltar de órbita en órbita, evitando obstáculos y recolectando
 
 ## 🛠️ Tecnologías Utilizadas
 
-- HTML5 Canvas
-- CSS3
-- JavaScript (ES6+)
-- [Agregar otras tecnologías específicas que uses]
+- Python 3.x
+- Pygame 2.0 o superior
+- [Agrega más tecnologías si es necesario]
 
 ## 📁 Estructura del Proyecto
 
 ```
 Juego-SaltoOrbital/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   ├── game.js
-│   ├── player.js
-│   └── utils.js
+├── main.py
+├── juego.py
+├── jugador.py
+├── objetos.py
 ├── assets/
 │   ├── images/
 │   └── sounds/
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## 🛠️ Requisitos
@@ -64,8 +61,6 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Ejecución del Juego
-
-Para ejecutar el juego, sigue estos pasos:
 
 1. Clona este repositorio:
     ```bash
@@ -82,8 +77,8 @@ Para ejecutar el juego, sigue estos pasos:
     pip install -r requirements.txt
     ```
 
-4. **Ejecucion del juego** 🎮
-   ```bash
+4. Ejecuta el juego:
+    ```bash
     python main.py
     ```
 
@@ -106,7 +101,8 @@ Para ejecutar el juego, sigue estos pasos:
 
 ### Requisitos
 
-- Navegador web moderno con soporte para HTML5 Canvas
+- Python 3.8 o superior
+- Pygame 2.0 o superior
 - Editor de texto/código (recomendado: VS Code)
 
 ### Contribuir
